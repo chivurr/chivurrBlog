@@ -13,6 +13,6 @@ So this is an attempt to get back to that (and away from nonsensical code and bu
 
 I don't know how long this will last, how many posts I will make. But isn't that ultimately true of every other endeavor in my life? One day I will stop streaming. Someday I will play my last game of volleyball, finish DMing my last D&D campaign.
 
-But least for now, I see purpose in this site, in this blog.
+But for now, I see purpose in this site, in this blog.
 
-So least for now, I will write.
+So for now, I will write.
