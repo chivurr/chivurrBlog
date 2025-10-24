@@ -87,7 +87,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -145,7 +145,7 @@ navbar-col: "#2E313D"
 navbar-text-col: "#76a5cb"
 navbar-border-col: "#cedcd0"
 footer-col: "#2E313D"
-footer-text-col: "#777777"
+footer-text-col: "#a6a99c"
 footer-link-col: "#76a5cb"
 footer-hover-col: "#cedcd0"
 
