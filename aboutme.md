@@ -4,13 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey, I'm Chiv/Chivurr (pronounced the same as shiv/shiver)!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a variety streamer on Twitch - I play a bit of everything but platformers, rogue-likes, and generally difficult games are my jam. When I don't play games, I play piano (I'm not trained, so I play by ear mostly).
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+A few Chiv facts
+- I'm a world record holder in an obscure platformer game LASERS (yeah I'm the only run submitted, don't @ me)
+- I love both extrememly spicy and extremely sour food
+- I can put my feet behind my head
